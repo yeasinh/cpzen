@@ -1,16 +1,5 @@
-# cpzen_ide
+# CpZen IDE
 
-A new Flutter project.
+CpZen is an online IDE. It has a sign-up/log-in feature and uses an API to find programming problems and submit the user's solutions.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We have developed this app for our Mobile Development project in the fifth semester. We have implemented it with Flutter and Dirt.
